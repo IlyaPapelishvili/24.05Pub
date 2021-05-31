@@ -16,7 +16,7 @@
 קול 2 הוא | מְרוּכָּז | 12 דולר
 פסי זברה | מסודרים | ~~ $ 1 ~~
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+דילינג'ר הוא עורך HTML5 שמופעל באמצעות ענן, מוכן להתקנים ניידים ואחסון לא מקוון, המופעל באמצעות AngularJS.
 
 - הקלד קצת Markdown בצד שמאל
 - ראה HTML בצד ימין
