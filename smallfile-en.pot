@@ -6,6 +6,7 @@ msgctxt "test"
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
 msgstr ""
+msgid_plural "Hello"
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
